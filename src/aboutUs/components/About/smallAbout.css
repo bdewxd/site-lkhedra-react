@@ -1,0 +1,14 @@
+.about{
+    /* background-color: #; */
+    color:bisque;
+    font-weight: bolder;
+    background-color: rgb(255, 255, 255, 0.09);
+}
+.about-text{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 3em;
+}

@@ -1,0 +1,25 @@
+.list{
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.1s;
+  color:rgb(253, 243, 230);
+}
+.list:hover{
+  border-bottom: 1px solid #2BC016;
+}
+.input-group-text{
+  border-radius: 20px 0 0 20px;
+}
+.input-container{
+  display: flex;
+}
+
+.our-nav{
+  background: linear-gradient(transparent ,rgba(233, 216, 216, 0.342));
+}
+.links{
+  font-weight: bolder;
+  font-size: 1.2em;
+}
+.clover,#brando,#search{
+  color:#2BC016
+}

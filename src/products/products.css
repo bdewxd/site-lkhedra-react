@@ -1,0 +1,17 @@
+.pageContainer {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 9fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;    
+}
+.category{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.products{
+    margin-top: 200px;
+    display: flex;
+    flex-flow: column nowrap;
+}

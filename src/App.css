@@ -1,0 +1,10 @@
+#app-container{
+    background-image: url("basket.jpg");
+    background-size: cover;
+}
+a:hover{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,24 @@
+.carouselCtrlIcon {
+  background-image: none;
+}
+.nextCarCtrl:after
+{
+  content: '>';
+  font-size: 55px;
+  color: rgb(8, 6, 6);
+}
+
+.prevCarCtrl:after {
+  content: '<';
+  font-size: 55px;
+  color: rgb(17, 13, 13);
+}
+
+.carousel-images {
+    width: 85%;
+    height: auto;
+    margin: auto;
+}
+.d-block{
+    height: 200px;
+}

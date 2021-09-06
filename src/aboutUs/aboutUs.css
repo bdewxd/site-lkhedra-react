@@ -1,0 +1,21 @@
+.aboutUs{
+    display: flex;
+    margin-top: 5em;
+    flex-flow: wrap row;
+    row-gap: 3em;
+    column-gap: 3em;
+}
+.about-div > h1{
+    color: rgb(145, 255, 0);
+}
+.about-div{
+    color: bisque;
+    background-color: rgba(39, 35, 35, 0.438);
+    border-radius: 20px;
+    padding: 2em;
+    font-weight: bolder;
+}
+.last{
+    align-self: flex-end;
+    justify-self: center;
+}

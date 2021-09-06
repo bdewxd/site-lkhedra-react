@@ -1,0 +1,7 @@
+.card-container > div{
+    display:flex;
+    flex-direction: row;
+}
+.carousel-cards{
+    width: 60%;
+}

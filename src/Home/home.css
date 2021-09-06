@@ -1,0 +1,7 @@
+#container{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    row-gap: 200px;
+}

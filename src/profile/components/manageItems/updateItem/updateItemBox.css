@@ -1,0 +1,27 @@
+.submit{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    column-gap: 10px;
+    row-gap: 0px;
+}
+.itemUpdaterBox{
+    background-color: rgba(0, 0, 0, 0.438);
+    color:bisque;
+    display: grid;
+    margin-top: 200px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.child{
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 2fr;
+    column-gap: 0px;
+    row-gap: 0px;
+}
+.img{
+    width: 200px;
+    height: 100%;
+    border-radius: 20px;
+
+}
